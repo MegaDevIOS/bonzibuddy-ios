@@ -1,8 +1,0 @@
-Package: com.megadev.bonzibuddy
-Name: BonziBuddy
-Depends: mobilesubstrate,ws.hbang.common
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Bonzi Buddy ported to iOS. ofcourse without the malware :) ! (commands comming soon)
-Author: megadev
-Section: Tweaks
